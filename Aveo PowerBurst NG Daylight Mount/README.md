@@ -1,4 +1,4 @@
-#Aveo PowerBurst NG Daylight Wing-end Light Mounts
+# Aveo PowerBurst NG Daylight Wing-end Light Mounts
 
 This project contains 3D printable parts designed in Solid Edge that allow you to connect the Aveo PowerBurst NG Daylight wing end position/strobe lights to a Sonex wingend. The Sonex wingend rib is set at 45° and the lights needs a 45° offset mount for the lights to point directly outward (as opposed to 45° downward).
 
