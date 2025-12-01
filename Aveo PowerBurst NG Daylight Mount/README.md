@@ -28,6 +28,19 @@ I have prepared a second option for those interested in laying up a composite ma
 
 I have added STL files for these 3D models: __Aveo PowerBurst NG Daylight Mount/Composite Molds/STL Files__
 
+Note: I used Solid Edge to determine that the volume of the drafted part is  31.343 cm^3. I suggest using:
+- 26.4 grams of carbon fiber
+- 17.6 grams of resin
+
+I came to these values by watching [this video](https://www.youtube.com/watch?v=nhqAhYOdGNc&t=12m24s). I suggest watching the entire video - it's very enlightening. 
+
+Here are my calculations base on the numbers provided in the video:
+31.434 cm^3 (part volume) x 1.4 grams of carbon fiber and resin per cm^3 of volume = 44.0076 grams of carbon fiber + resin
+
+Of that total, we want to use 60% carbon fiber (by weight) and 40% resin (by weight). So ...
+- 44.0076 grams x 60% (0.60) = 26.40456 grams of carbon fiber (rounded to 26.4 grams)
+- 44.0076 grams x 40% (0.40) = 17.60304 grams of resin (rounded to 17.6 grams)
+
 
 ## 3D Print Settings
 I elected to print my parts using PETG-CF filament, .2mm layers, 3mm walls, 3mm top/bottom, with 50% infill. I over-estimated the amount of strength needed for all of the printed parts. On my upgraded Creality Ender3 printer, the Cavity took 11 hours to print and the Core took about 13 hours. Remember that you will also need to print both of those parts mirrored to make the mount for the left wing. I didn't model a separate part, just mirror the STL files in your slicing software before printing them. 
