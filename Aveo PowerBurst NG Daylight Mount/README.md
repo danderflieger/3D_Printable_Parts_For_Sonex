@@ -12,7 +12,7 @@ In either case, I have included the .par (Solid Edge part) and STL files in this
 ## 3D printed part
   Location: Aveo PowerBurst NG Daylight Mount/3D Printable
 
-In the case of direcly using a printed part, be sure to print it in a material that can withstand the elements. PLA is plant based and will deteriorate outdoors. Additionally, it's not very heat resistant, so the part is likely to reach its "glassing" temerature on a hot summer day. When a 3D printable filament reaches its glassing temperature, wil begins to become soft and will no longer hold its shape. I suggest ABS or Nylon filament for this project. Even better, a carbon fiber (CF) infused ABS or Nylon filament. The CF particles do not grow/shrink with temperature change and your part is more likely to hold its shape.
+In the case of direcly using a printed part, be sure to print it in a material that can withstand the elements. PLA is plant based and will deteriorate outdoors. Additionally, it's not very heat resistant, so the part is likely to reach its "glassing" temerature on a hot summer day. When a 3D printable filament reaches its glassing temperature, wil begins to become soft and will no longer hold its shape. I suggest ABS or ASA filament for this project. Even better, a carbon fiber (CF) infused ABS or ASA filament. The CF particles do not grow/shrink with temperature change and your part is more likely to hold its shape.
 
 I have added STL files for these 3D models: __Aveo PowerBurst NG Daylight Mount/3D Printable/STL Files/__
 
@@ -24,7 +24,7 @@ I have prepared a second option for those interested in laying up a composite ma
 
 - __Aveo PowerBurst NG Daylite Mount-With-Draft.par__ - this file is the new part with the draft. The dimmensions are the same as the 3D printable part on the side where the light is affixed. However, with the draft, the side that butts up against the wingend rib is slightly larger as it follows the draft. This part can be printed and used to make a mold out of composites material (or printed and used as-is, like the option above). 
 - __Aveo PowerBurst NG Daylite Mount-Mold-Cavity.par__ - This is the concave portion of the mold that can be 3D printed.
-- __Aveo PowerBurst NG Daylite Mount-Mold-Care.par__ - This is the convex portion of the mold that can be 3D printed.
+- __Aveo PowerBurst NG Daylite Mount-Mold-Core.par__ - This is the convex portion of the mold that can be 3D printed.
 
 I have added STL files for these 3D models: __Aveo PowerBurst NG Daylight Mount/Composite Molds/STL Files__
 
