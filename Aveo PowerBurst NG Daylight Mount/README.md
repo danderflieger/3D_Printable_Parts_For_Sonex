@@ -29,8 +29,8 @@ I have prepared a second option for those interested in laying up a composite ma
 I have added STL files for these 3D models: __Aveo PowerBurst NG Daylight Mount/Composite Molds/STL Files__
 
 Note: I used Solid Edge to determine that the volume of the drafted part is  31.343 cm^3. I suggest using:
-- 21.2 grams of carbon fiber
-- 14.2 grams of resin
+- <del>21.2</del> 25 grams of carbon fiber
+- <del>14.2</del> 20 grams of resin
 
 I came to these values by watching [this video](https://www.youtube.com/watch?v=nhqAhYOdGNc&t=12m24s). I suggest watching the entire video - it's very enlightening. 
 
